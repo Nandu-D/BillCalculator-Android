@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BILL CALCULATOR</string>
+    <string name="no_of_coffees">0</string>
+    <string name="sign_minus">-</string>
+    <string name="sign_plus">+</string>
+    <string name="button_order">ORDER</string>
+    <string name="quantity_text">QUANTITY</string>
+    <string name="price_text">PRICE</string>
+    <string name="no_of_money">0</string>
+</resources>
